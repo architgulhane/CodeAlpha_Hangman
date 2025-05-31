@@ -18,4 +18,5 @@ This is a simple text-based Hangman game written in Python. The game randomly se
 ## Requirements
 - Python 3.x
 
-Enjoy playing and improving your vocabulary!
+## Output 
+![image](https://github.com/user-attachments/assets/9f383398-c83f-450f-abdc-48c45cec5de1)
